@@ -1,0 +1,74 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+header{
+    background: url(../img/dd.jpg);
+    color: #fff;
+    border-top: 4px solid #007BFF;
+}
+#menu li a{
+    color: #fff;
+}
+header .banner{
+    margin: 100px 0px 150px;
+}
+header .banner h1{
+    font-size: 60px;
+}
+.section-2{
+    margin: 80px 0px;
+}
+.section-2 .box{
+    padding-left: 20px;
+}
+.section-2 .box h5{
+    color: #53A6DD;
+}
+.section-2-border{
+    border-left: 1px solid #DBDBDB;
+}
+.section-3{
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.section-3 h3{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.section-3 .profile{
+    border: 1px solid #fff;
+    text-align: center;
+    margin: 10px;
+    padding: 40px 20px;
+}
+.section-3 .profile img{
+    border-radius: 100%;
+    margin-bottom: 15px;
+}
+.section-4{
+    color: #53A6DD;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.section-4 h2{
+    font-size: 40px;
+}
+.section-4 h3{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+footer{
+    border-top: 2px solid #DBDBDB;
+}
+footer b{
+    padding-top: 45px;
+    color: #dbdbdb;
+}
+footer .social{
+    letter-spacing: 8px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: #5385c1;
+    text-align: right;
+}

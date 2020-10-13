@@ -1,0 +1,31 @@
+@media only screen and (min-width: 0px) and (max-width: 567px){
+    header button span{
+        color: #fff;
+    }
+    .section-2{
+        margin: 80px 0px;
+    }
+    .section-2 .box{
+        padding-top: 20px;
+        margin-top: 20px;
+    }
+    .section-2-border{
+        border-left: none !important;
+        border-top: 1px solid #DBDBDB;
+    }
+    .section-4 .box-1{
+        padding-right: 15px !important;
+        padding-left: 15px;
+    }.section-4 .box-2{
+        margin-top: 20px;
+        padding-left: 15px !important;
+        padding-right: 15px;
+    }
+    footer{
+        text-align: center;
+    }
+    footer .social{
+        margin-top: 30px !important;
+        text-align: center !important;
+    }
+}
